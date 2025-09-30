@@ -1,0 +1,52 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "World of Warcraft",
+      "price": 20,
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3bc2e591-7f06-4273-b443-2d3cf6346c3c/d4va1nt-246ee17f-ba09-432f-ab84-26087ff4a29f.png/v1/fit/w_512,h_512/world_of_warcraft___mists_of_pandaria_icon_by_kamizanon_d4va1nt-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzNiYzJlNTkxLTdmMDYtNDI3My1iNDQzLTJkM2NmNjM0NmMzYy9kNHZhMW50LTI0NmVlMTdmLWJhMDktNDMyZi1hYjg0LTI2MDg3ZmY0YTI5Zi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.MYiNYtnshc7-4On0GZyvaUUFREQ2aqPNcip7JbwJgFI"
+    },
+    {
+      "id": 2,
+      "title": "League of Legends",
+      "price": 15,
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b1f444f5-ca6c-4df3-8c44-ec6e0276f5ac/d77e9ba-5ee895fc-2e49-49f1-ad0d-d7a7133d9335.png/v1/fit/w_512,h_512/championship_thresh_icon_by_dudekpro_d77e9ba-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2IxZjQ0NGY1LWNhNmMtNGRmMy04YzQ0LWVjNmUwMjc2ZjVhYy9kNzdlOWJhLTVlZTg5NWZjLTJlNDktNDlmMS1hZDBkLWQ3YTcxMzNkOTMzNS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.0Y158uQAB_ok4O3-_c6sPujE09APFfCEsR4v9rl2Jbs"
+    },
+    {
+      "id": 3,
+      "title": "Metin2",
+      "price": 10,
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b1f444f5-ca6c-4df3-8c44-ec6e0276f5ac/d75ftwe-64e5cbcb-25c0-4ce7-8d25-27e6dfe9d475.png/v1/fit/w_512,h_512/metin2_icon_by_dudekpro_d75ftwe-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2IxZjQ0NGY1LWNhNmMtNGRmMy04YzQ0LWVjNmUwMjc2ZjVhYy9kNzVmdHdlLTY0ZTVjYmNiLTI1YzAtNGNlNy04ZDI1LTI3ZTZkZmU5ZDQ3NS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.6tIbMyu-rZVXkhz_Xukw9zmdl0_bFn5F0HMFFx4weTc"
+    },
+    {
+      "id": 4,
+      "title": "Counter Stirke",
+      "price": 12,
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b1f444f5-ca6c-4df3-8c44-ec6e0276f5ac/d7f0049-a816d6ab-034c-4c2e-8091-82b8486000ea.png/v1/fit/w_512,h_512/counter_strike_1_6_icon_by_dudekpro_d7f0049-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2IxZjQ0NGY1LWNhNmMtNGRmMy04YzQ0LWVjNmUwMjc2ZjVhYy9kN2YwMDQ5LWE4MTZkNmFiLTAzNGMtNGMyZS04MDkxLTgyYjg0ODYwMDBlYS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.hWBfvHO7SVogRu5fjo35OBe7HcUBIZHmJY__UEfrKkg"
+    },
+    {
+      "id": 5,
+      "title": "Prince Of Persia",
+      "price": 25,
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b1f444f5-ca6c-4df3-8c44-ec6e0276f5ac/d7bxqcq-42dfd59e-5757-4bc2-af70-b3228685fd10.png/v1/fit/w_512,h_512/prince_of_persia_the_sands_of_time_icon_by_dudekpro_d7bxqcq-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2IxZjQ0NGY1LWNhNmMtNGRmMy04YzQ0LWVjNmUwMjc2ZjVhYy9kN2J4cWNxLTQyZGZkNTllLTU3NTctNGJjMi1hZjcwLWIzMjI4Njg1ZmQxMC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.dShFyvdHINxfkBT4hMIvG0pKri4syp5OT73yZ8diofg"
+    },
+    {
+      "id": 6,
+      "title": "Mount & Blade",
+      "price": 18,
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b9ed81e2-fe8b-4139-8830-35dabc5256fa/dcy65ju-7a918d73-eaa2-4af8-bd3c-9b7f9ac10883.png/v1/fit/w_512,h_512/mount_blade_ii__bannerlord___2_game_icon__512x512__by_m_1618_dcy65ju-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2I5ZWQ4MWUyLWZlOGItNDEzOS04ODMwLTM1ZGFiYzUyNTZmYS9kY3k2NWp1LTdhOTE4ZDczLWVhYTItNGFmOC1iZDNjLTliN2Y5YWMxMDg4My5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.9MLgVkAtaQXripIylbRJGCYBhMwNU3rWxvuZSCl50XU"
+    },
+    {
+      "id": 7,
+      "title": "Age of Empires IV",
+      "price": 30,
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3bc2e591-7f06-4273-b443-2d3cf6346c3c/d3i3wyt-d05015a1-26ae-49a1-9c7e-ff1ba108a62c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zYmMyZTU5MS03ZjA2LTQyNzMtYjQ0My0yZDNjZjYzNDZjM2MvZDNpM3d5dC1kMDUwMTVhMS0yNmFlLTQ5YTEtOWM3ZS1mZjFiYTEwOGE2MmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YdwpSQ6VPddx9sPvPITNoOdeujYJkcip8EUqEyrVqjU"
+    },
+    {
+      "id": 8,
+      "title": "Dragon Age",
+      "price": 22,
+      "image": "https://vectorified.com/images/dragon-age-origins-icon-6.PNG"
+    }
+  ]
+}
